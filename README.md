@@ -26,19 +26,19 @@ Convolutional Auto Encoder on Pokemon Dataset.
 
 1. Fork the repository using following command :
 
-       $git clone https://github.com/sagnik1511/Conv-AE-Tensorflow-Keras.git
+       !git clone https://github.com/sagnik1511/Conv-AE-Tensorflow-Keras.git
        
 2. Enter into the repository folder :
 
-       $cd Conv-AE-Tensorflow-Keras
+       !cd Conv-AE-Tensorflow-Keras
        
 3. Run the following command to install dependencies:
 
-       $pip install -r requirements.txt
+       !pip install -r requirements.txt
 
 4. Run the command to start code execution:
 
-       $python train.py
+       !python train.py
        
  
  
