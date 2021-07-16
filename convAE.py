@@ -15,7 +15,7 @@ All rights reserved.
 # Libraries
 import tensorflow as tf
 from tensorflow.keras.layers import (
-    Input , Conv2D , Conv2DTranspose , MaxPooling2D , UpSampling2D
+    Conv2D, Conv2DTranspose, Input, MaxPooling2D, UpSampling2D
 )
 from tensorflow.keras.models import Model
 
