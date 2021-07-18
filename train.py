@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 
-+----------------+
++ -------------- +
 | Model Training |
-+----------------+
++ -------------- +
 
 Model training has been done 
 with custom training loop.
