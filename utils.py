@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 
-+-----------+
++ --------- +
 | Utilities |
-+-----------+
++ --------- +
 
 Necessary functions are
 stored in this file.
